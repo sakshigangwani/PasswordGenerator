@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password Generator using Python
+GUI Password Generator using Python
